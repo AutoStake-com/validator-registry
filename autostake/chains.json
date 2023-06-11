@@ -151,7 +151,7 @@
       "address": "gitopiavaloper1d5ac6xpa20hq3vuxkeef732p4rcrc30rg0sce9",
       "restake": {
         "address": "gitopia194ytn50yhh67rdha8akhs7c6zulnz4n2h0w5rq",
-        "run_time": "every 5 minutes",
+        "run_time": "every 1 minutes",
         "minimum_reward": 1
       }
     },
