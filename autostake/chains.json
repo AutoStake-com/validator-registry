@@ -448,7 +448,7 @@
       "address": "tenetvaloper1ppzsh293kufkrj2ay0jw3knxjl6gnhefz4wczq",
       "restake": {
         "address": "tenet163g9c65kv5v8lgvvwner3ruxntrdr50yegkk7q",
-        "run_time": "every 5 minutes",
+        "run_time": ["09:00", "21:00"],
         "minimum_reward": 1
       }
     },
